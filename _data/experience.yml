@@ -1,0 +1,16 @@
+# Jobs
+
+- company: Insense
+  position: Ruby Backend Engineer
+  duration:   Nov, 2016  &mdash; Present
+  summary: Developing Rest API (dry-web-roda), interacting with external services. (Facebook API, Instagram API).
+
+- company: Evrone
+  position: Ruby Backend Engineer
+  duration:  Feb, 2016 &mdash; Feb, 2017
+  summary: Developing frontend (Twitter Bootstrap, Haml, CoffeeScript​) and backend (Rest API, Postgres).
+
+- company: SaltPepper
+  position: Ruby Backend Engineer
+  duration: Aug, 2012 &mdash; Feb, 2016
+  summary: <ul class="resume-item-list"><li>Development of business logic for web applications</li><li>Database design</li><li>Rest API</li><li>Interaction with social networks</li></ul>

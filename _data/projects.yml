@@ -1,0 +1,26 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: insense.pro
+  role: Ruby Backend Engineer
+  duration: 2016 &mdash; Present
+  url: "https://insense.pro"
+  description: Platform, connecting brands and bloggers for the advertising in the Facebook and Instagram with measurable business results.
+
+- project: Revoplus
+  role: Ruby Backend Engineer
+  duration: 2016 &mdash; 2017
+  url: "https://revoplus.ru"
+  description: Loans and installments
+
+- project: Sportcloud
+  role: Ruby Backend Engineer
+  duration: 2016 &mdash; 2016
+  url: "https://sportcloud.ru"
+  description: Online sports portal helps to sport communities to organize competitions, analyze and show to others competitions results.
+
+- project: DohVinci
+  role: Ruby Backend Engineer
+  duration: 2014 &mdash; 2016
+  url: "https://dohvinci.ru"
+  description: Game Portal promoting products of Hasbro DohVinci
